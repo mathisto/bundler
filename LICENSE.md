@@ -1,6 +1,6 @@
 The MIT License
 
-Portions copyright (c) 2010-2019 André Arko
+Portions copyright (c) 2010-2021 André Arko
 Portions copyright (c) 2009 Engine Yard
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
